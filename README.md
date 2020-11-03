@@ -16,4 +16,4 @@ I am a T-shaped developer with in-depth know-how of the React way of doing stuff
 - 👯 Looking for people I can learn from.
 - 💬 Ask me about things you can't lookup on google.
 - 📫 How to reach me: akshay.kumar@sdiot.io
-- 😄 Pronouns: <strike>NightOwl</strike>, Streamer, Gamer, Guitarist, Petrolhead, Aloo
+- 😄 Pronouns: <strike>NightOwl</strike>, Streamer, Gamer, Guitarist, Singer, Petrolhead, Aloo
