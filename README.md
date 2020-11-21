@@ -17,5 +17,6 @@ Been there, done that... Have templates for everything related to web-applicatio
 - 🌱 <strike>Currently learning recoiljs</strike> Postponed as it does not support persistance out of the box, yet. So back to redux. Figuring out best approach towards testing react apps.
 - 👯 Looking for someone I can date...
 - 💬 Ask me about things you can't lookup on google.
-- 📫 How to reach me: akshay.kumar@sdiot.io
+- 📫 How to reach me
+  - mail: work.akshay.kumar@sdiot.io
 - 😄 Pronouns: <strike>NightOwl</strike>, Streamer, Gamer, Guitarist, Singer, Petrolhead, Aloo
