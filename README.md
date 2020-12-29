@@ -18,4 +18,4 @@ Been there, done that... Have templates for everything related to web-applicatio
 - 💬 Ask me about things you can't lookup on google.
 - 📫 How to reach me?
   - mail: work.akshay.kumar@gmail.com
-- 😄 Pronouns: <strike>NightOwl</strike>, Streamer, Gamer, Guitarist, Singer, Petrolhead, Aloo
+- 😄 Pronouns: Streamer, Gamer, Guitarist, Singer, Petrolhead, Aloo
