@@ -17,5 +17,5 @@ Been there, done that... Have templates for everything related to web-applicatio
 - 🌱 <strike>Currently learning recoiljs</strike> Postponed as it does not support persistance out of the box, yet. So back to redux. Figuring out best approach towards testing react apps.
 - 💬 Ask me about things you can't lookup on google.
 - 📫 How to reach me?
-  - mail: work.akshay.kumar@gmail.com
+  - mail: akshay.nm92@gmail.com
 - 😄 Pronouns: Streamer, Gamer, Guitarist, Singer, Petrolhead, Aloo
