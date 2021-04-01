@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Friends know me as UX-Pirate, because I have a knack for figuring out the easiest way to expose a feature!  
-That being said, I've never been interested in UX. 
 
 I like problems which force me to think and push me beyond what I already know. 🤓  
 But it's also good to know things ones a while... 😎
