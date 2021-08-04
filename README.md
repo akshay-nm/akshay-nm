@@ -20,5 +20,3 @@ So if you are in the market for some rapid prototyping, I'm your man... 🏋️�
 - 💬 Ask me about things you can't lookup on google.
 - 📫 How to reach me?
   - 📧 akshay.nm92@gmail.com 
-  - YouTube: https://www.youtube.com/c/NightMoves
-- 😄 Pronouns: Streamer, Gamer, Guitarist, Singer
