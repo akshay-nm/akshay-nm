@@ -13,7 +13,7 @@ I am a T-shaped developer with in-depth know-how of the React way of doing stuff
 I like keeping'em lean, to the point, and simple. 
 Have templates for everything related to web-applications. 
 So if you are in the market for some rapid prototyping, I'm your man... 🏋️‍
-I also try to give back to the community whenever I can. Here's my stackoverflow: https://stackoverflow.com/users/5712125/akshay-kumar?tab=profile
+I also try to give back to the community whenever I can. Here's my stackoverflow: https://stackoverflow.com/users/5712125/akshay-kumar
 - 💬 Ask me about things you can't lookup on google.
 - 📫 How to reach me?
   - 📧 akshay.nm92@gmail.com 
