@@ -15,8 +15,9 @@ Have templates for everything related to web-applications.
 So if you are in the market for some rapid prototyping, I'm your man... 🏋️‍
 I also try to give back to the community whenever I can. Here's my stackoverflow: https://stackoverflow.com/users/5712125/akshay-kumar
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshay-nm&&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe">
 
 - 💬 Ask me about things you can't lookup on google.
 - 📫 How to reach me?
   - 📧 akshay.nm92@gmail.com 
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshay-nm&&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe">
