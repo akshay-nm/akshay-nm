@@ -11,13 +11,14 @@ Friends know me as UX-Pirate, because I have a knack for figuring out the easies
 I am an expeirenced MERN stack developer.
 
 I like keeping'em lean, to the point, and simple. 
-Have templates for everything related to web-applications. 
-So if you are in the market for some rapid prototyping, I'm your man... 🏋️‍
-I also try to give back to the community whenever I can. Here's my stackoverflow: https://stackoverflow.com/users/5712125/akshay-kumar
 
+Have templates for everything related to web-applications. 
+
+So if you are in the market for some rapid prototyping, I'm your man... 🏋️‍
+
+stackoverflow: https://stackoverflow.com/users/5712125/akshay-kumar
+email: akshay.nm92@gmail.com
 
 - 💬 Ask me about things you can't lookup on google.
-- 📫 How to reach me?
-  - 📧 akshay.nm92@gmail.com 
 
 <img src="https://github-readme-stats.vercel.app/api?username=akshay-nm&&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe">
