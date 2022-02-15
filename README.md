@@ -13,7 +13,7 @@ Like keeping'em lean, to the point, and simple.
 Have templates for everything related to web-applications.  
 So if you are in the market for some rapid prototyping, I'm your man... 🏋️‍
 
-stackoverflow: https://stackoverflow.com/users/5712125/akshay-kumar
+stackoverflow: https://stackoverflow.com/users/5712125/akshay-kumar  
 email: akshay.nm92@gmail.com
 
 - 💬 Ask me about things you can't lookup on google.
