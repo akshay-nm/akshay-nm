@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 Friends know me as UX-Pirate, because I have a knack for figuring out the easiest way to expose a feature!  
 
-I am an expeirenced MERN stack developer, ditching React and shifting towards Svelte.
+I am an expeirenced MERN stack developer.
 
 I like keeping'em lean, to the point, and simple. 
 Have templates for everything related to web-applications. 
