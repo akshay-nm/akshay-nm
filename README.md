@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
-Friends know me as UX-Pirate, because I have a knack for figuring out the easiest way to expose a feature!  
 
 I am a MERN stack developer.  
 Like keeping'em lean, to the point, and simple.  
