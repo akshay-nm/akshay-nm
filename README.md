@@ -13,4 +13,4 @@ Like keeping'em lean, to the point, and simple.
 stackoverflow: https://stackoverflow.com/users/5712125/akshay-kumar  
 email: akshay.nm92@gmail.com
 
-💬 Ask me things you can't lookup on google.
+💬 Ask me things you can't lookup on google, and chatgpt hallucinates on...
