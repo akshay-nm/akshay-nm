@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a MERN heavy full-stack engineer.  
+I am a CS engineer.  
 Like keeping'em lean, to the point, and simple.  
 
 stackoverflow: https://stackoverflow.com/users/5712125/akshay-kumar  
